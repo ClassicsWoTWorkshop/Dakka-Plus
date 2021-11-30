@@ -1,0 +1,6 @@
+
+*.psd
+*.dds
+*.visual_processed
+*.primitives_processed
+*.model
