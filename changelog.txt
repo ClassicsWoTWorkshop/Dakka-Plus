@@ -1,0 +1,53 @@
+CHANGELOGS:
+
+INITIAL RELEASE - 1.0.0 (6 Dec 2021)
+
+Dakka Plus is a remodel pack including a number of vehicles with additional equipment + dakka. This will be taking the place of the old "Dakka Improvement Project" for most new content updates, and will take more of a "quality over quantity" approach, with remodels featuring more than just the addition of a machine-gun-or-two. 
+
+To start off, here is the new Dakka Plus content:
+
+
+===NEW VEHICLES (5):===
+
+POLAND (1): 
+ - CS-63 (added KPVT MG + extra hull & turret equipment)
+
+UK (1): 
+ - FV4005 (added .30-cal MG + camo netting, extra hull & turret equipment)
+
+USSR (3):
+ - Obj. 263 (added KPVT MG + extra hull equipment based on "Delicate Matter")
+ - IS-3A (added twin-KPVT mount + IS-3M hull model based on "Montu")
+ - ST-I (added DShK MG + improved hull model from 2018 CT files)
+
+
+===OVERHAULED VEHICLES (3):===
+
+USA: 
+ - Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares)
+ - T110E5 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
+- AE Phase 1 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
+
+
+Secondly, a number of vehicles have been moved here from the Legacy pack:
+
+===LIST OF VEHICLES MOVED TO DAKKA PLUS (14):===
+
+- CZECHOSLOVAKIA (1): Škoda T-27
+- FRANCE (1): BDR G1 B
+- GERMANY (1): Jagdtiger
+- ITALY (2): Progetto 54, Progetto 66
+- JAPAN (1): Type 5 Heavy
+- POLAND (1): CS-59
+- SWEDEN (1): UDES 03
+- USA (5): XM551 Sheridan, M48A5 Patton, AE Phase 1, Concept 1B, T28 HTC
+- USSR (1): IS-7
+
+The Legacy pack with the original cast of 120+ vehicles can still be downloaded separately, but will not feature new content updates as often. The Plus pack will receive most of the new content going forward.
+
+
+===OTHER CHANGES:===
+
+- UK: Fixed minor display issue with GSOR 1008 gun/turret body, which caused the paint selector to render strangely in the exterior customization menu
+- USA: Fixed minor display issue with Concept 1B gun equipment, which caused the paint selector to render strangely in the exterior customization menu
+- USSR: Updated camo tile on IS-3A/ST-I MG mount/ammo box
