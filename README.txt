@@ -21,13 +21,13 @@ An extension of the original "Dakka Improvement Project" mod for World of Tanks,
 ////////////////
 
 
-Remodels a number of vehicles with additional equipment/dakka.
+Remodels a number of vehicles with additional equipment + dakka.
 
 CURRENTLY INCLUDED VEHICLES (26 Total):
 
 CZECHOSLOVAKIA (1):
 
-- MT: Škoda T-27
+- MT: Škoda T 27
 
 FRANCE (1): 
 

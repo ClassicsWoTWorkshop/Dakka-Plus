@@ -7,13 +7,16 @@ Dakka Plus is a remodel pack including a number of vehicles with additional equi
 To start off, here is the new Dakka Plus content:
 
 
-===NEW VEHICLES (5):===
+===NEW VEHICLES (6):===
 
 POLAND (1): 
  - CS-63 (added KPVT MG + extra hull & turret equipment)
 
 UK (1): 
  - FV4005 (added .30-cal MG + camo netting, extra hull & turret equipment)
+
+USA (1)
+ - Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares)
 
 USSR (3):
  - Obj. 263 (added KPVT MG + extra hull equipment based on "Delicate Matter")
@@ -24,7 +27,6 @@ USSR (3):
 ===OVERHAULED VEHICLES (3):===
 
 USA: 
- - Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares)
  - T110E5 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
 - AE Phase 1 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
 
