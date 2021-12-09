@@ -24,7 +24,7 @@ USSR (3):
  - ST-I (added DShK MG + improved hull model from 2018 CT files)
 
 
-===OVERHAULED VEHICLES (3):===
+===OVERHAULED VEHICLES (2):===
 
 USA: 
  - T110E5 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
