@@ -1,5 +1,14 @@
 CHANGELOGS:
 
+
+1.0.1 (7 Dec 2021)
+
+Fixed IS-3A turret texture path issue
+
+
+================================================
+
+
 INITIAL RELEASE - 1.0.0 (6 Dec 2021)
 
 Dakka Plus is a remodel pack including a number of vehicles with additional equipment + dakka. This will be taking the place of the old "Dakka Improvement Project" for most new content updates, and will take more of a "quality over quantity" approach, with remodels featuring more than just the addition of a machine-gun-or-two. 
