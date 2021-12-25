@@ -23,7 +23,7 @@ An extension of the original "Dakka Improvement Project" mod for World of Tanks,
 
 Remodels a number of vehicles with additional equipment + dakka.
 
-CURRENTLY INCLUDED VEHICLES (26 Total):
+CURRENTLY INCLUDED VEHICLES (27 Total):
 
 CZECHOSLOVAKIA (1):
 
@@ -66,8 +66,9 @@ USA (7):
 - HT: AE Phase 1, Concept 1B, T110E5
 - TD: T28 HTC
 
-USSR (5): 
+USSR (6): 
 
+- MT: Object 274A
 - HT: IS-3A, ST-I, IS-7
 - TD: SU-130PM, Object 263
 
