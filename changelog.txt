@@ -1,5 +1,13 @@
 CHANGELOGS:
 
+1.1.2 (16 Feb 2022)
+
+Fixed AE Phase 1 profile not displaying correctly when hovering the cursor near the roof/cupola
+
+
+================================================
+
+
 1.1.1 (29 Jan 2022)
 
 Updated Concept 1B to use newer version (09/21) from Dakka Legacy (was previously using the incorrect [older] version by mistake)
