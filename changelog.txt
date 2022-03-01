@@ -1,5 +1,20 @@
 CHANGELOGS:
 
+1.2.0 (1 Mar 2022)
+
+===NEW VEHICLES (1):===
+
+ - UDES 14 Alt 5: added MG ammo box + turret basket equipment, adapted from "Ski Patrol" style
+
+
+===UPDATED VEHICLES (1):===
+
+ - AE Phase 1: updated with new twin-.50-cal model from T110E4 BP style
+
+
+================================================
+
+
 1.1.2 (16 Feb 2022)
 
 Fixed AE Phase 1 profile not displaying correctly when hovering the cursor near the roof/cupola
@@ -65,7 +80,7 @@ USSR (3):
 
 USA: 
  - T110E5 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
-- AE Phase 1 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
+ - AE Phase 1 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
 
 
 Secondly, a number of vehicles have been moved here from the Legacy pack:
