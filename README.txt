@@ -11,7 +11,7 @@ An extension of the original "Dakka Improvement Project" mod for World of Tanks,
 
 - To install, drag the "CWW-Dakka-Plus" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
-(Example: C:\Games\World_of_Tanks\mods\1.15.0.0)
+(Example: C:\Games\World_of_Tanks\mods\1.16.0.0)
 
 - All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
 
