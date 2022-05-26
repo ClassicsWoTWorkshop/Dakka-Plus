@@ -1,8 +1,27 @@
 CHANGELOGS:
 
+1.3.0 (1 Jun 2022)
+
+===NEW VEHICLES (2):===
+
+- VK 28.01 mit 10,5 cm: added Sternantenne (Star Antenna)
+- Aufkl. Panther: added Sternantenne (Star Antenna) + additional hull antenna
+
+===OTHER CHANGES:===
+
+- Added core wotmod, containing files shared between several vehicles; REQUIRED for mod to function
+
+
+================================================
+
+
 1.2.1 (1 Mar 2022)
 
 Fixed UDES 14 Alt 5 ammo box mount color
+
+
+================================================
+
 
 
 1.2.0 (1 Mar 2022)
