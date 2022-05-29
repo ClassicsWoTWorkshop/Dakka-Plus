@@ -23,7 +23,7 @@ An extension of the original "Dakka Improvement Project" mod for World of Tanks,
 
 Remodels a number of vehicles with additional equipment + dakka.
 
-CURRENTLY INCLUDED VEHICLES (27 Total):
+CURRENTLY INCLUDED VEHICLES (28 Total):
 
 CZECHOSLOVAKIA (1):
 
@@ -33,9 +33,10 @@ FRANCE (1):
 
 - HT: BDR G1 B
 
-GERMANY (1):
+GERMANY (3):
 
 - TD: Jagdtiger
+- LT: VK 28.01 mit 10,5 cm, Aufkl. Panther
 
 ITALY (3): 
 
