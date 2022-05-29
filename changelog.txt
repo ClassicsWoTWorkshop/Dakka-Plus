@@ -10,6 +10,7 @@ CHANGELOGS:
 ===OTHER CHANGES:===
 
 - Added core wotmod, containing files shared between several vehicles; REQUIRED for mod to function
+- MINOR: Changed name of Skoda T 27 wotmod due to "Š" special character causing issues with .ZIP compression
 
 
 ================================================
