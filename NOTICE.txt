@@ -1,3 +1,3 @@
-The following vehicles currently have their full Dakka Plus versions in development: Rinoceronte, Centurion 7/1, GSOR 1008, Super Conqueror, ASTRON Rex, T110E5, and SU-130PM.
+The following vehicles currently have updated versions in development, potentially for future release: Rinoceronte, Centurion 7/1, GSOR 1008, Super Conqueror, ASTRON Rex, T110E5, and SU-130PM.
  
-These vehicles are currently included in the pack; however, they have not yet been changed from their original Legacy configuration. They will be updated with their overhauled "Plus" versions sometime in the near future.
+These vehicles are currently included in the pack; however, they have not yet been changed from their original Legacy configuration. They may be updated with their overhauled "Plus" versions sometime in the future.
